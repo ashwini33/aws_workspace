@@ -73,5 +73,18 @@ Descriptive use and administration of AWS workspace
 ### Creating Workspace 
 <p> Under the Workspace Service ,move the the Directories section and register the Active Directory to be used with Amazon Workspace.</p>
 <img src="https://gitresource.s3.us-east-2.amazonaws.com/aws_workspace/Screenshot+from+2019-09-09+20-06-09.png">
+<br><br>
+<p> Next select a Directory to use with Workspace </p>
+<img src="https://gitresource.s3.us-east-2.amazonaws.com/aws_workspace/Screenshot+from+2019-09-09+20-09-02.png">
+<br>
+<p> Next add users for whom you want to create workspace </p>
+<img src="https://gitresource.s3.us-east-2.amazonaws.com/aws_workspace/Screenshot+from+2019-09-09+20-10-47.png">
+<br>
+<p> Next select a Bundle and assign Workspace Bundle ,further add any tag in case you want (recommended) ,finally review and launch the Workspace/s</p>
+<img src="https://gitresource.s3.us-east-2.amazonaws.com/aws_workspace/Screenshot+from+2019-09-09+20-10-56.png">
+<img src="https://gitresource.s3.us-east-2.amazonaws.com/aws_workspace/Screenshot+from+2019-09-09+20-11-10.png">
+<img src="https://gitresource.s3.us-east-2.amazonaws.com/aws_workspace/Screenshot+from+2019-09-09+20-12-04.png">
+<img src="https://gitresource.s3.us-east-2.amazonaws.com/aws_workspace/Screenshot+from+2019-09-09+20-12-19.png">
+<br>
 
 
