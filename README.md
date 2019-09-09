@@ -70,4 +70,8 @@ Descriptive use and administration of AWS workspace
 <img src="https://gitresource.s3.us-east-2.amazonaws.com/aws_workspace/Screenshot+from+2019-09-09+19-27-28.png">
 
   
+### Creating Workspace 
+<p> Under the Workspace Service ,move the the Directories section and register the Active Directory to be used with Amazon Workspace.</p>
+<img src="https://gitresource.s3.us-east-2.amazonaws.com/aws_workspace/Screenshot+from+2019-09-09+20-06-09.png">
+
 
