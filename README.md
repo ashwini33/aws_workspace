@@ -63,7 +63,7 @@ To launch a WorkSpace
   
   6.Choose Launch WorkSpaces.
 
-<h2> Creating Amazon Workspace (Descritptive Installation) </h2>
+<h2> Creating Amazon Workspace (Descriptive Installation) </h2>
 <p> Under AWS console move to Workspace service, click the "Get Started Now" button to start with Workspace,first create a Active Directory Service. <p>
 <img src="https://gitresource.s3.us-east-2.amazonaws.com/aws_workspace/Screenshot+from+2019-09-09+19-10-03.png">
 <h2> Creating Simple Active Directory   </h2>
@@ -113,5 +113,40 @@ To launch a WorkSpace
 <img src="https://gitresource.s3.us-east-2.amazonaws.com/aws_workspace/Screenshot+from+2019-09-09+20-12-04.png">
 <img src="https://gitresource.s3.us-east-2.amazonaws.com/aws_workspace/Screenshot+from+2019-09-09+20-12-19.png">
 <br>
+<p> On successful Launch of Workspaces it shows an output as bellow :-  </p>
+<img src="https://gitresource.s3.us-east-2.amazonaws.com/aws_workspace/Screenshot+from+2019-09-09+20-13-24.png">
+<br>
+<hr>
+## Accessing workspaces 
+<p> One can access workspace using various client available for diffent platform using Registration code , User name and Password. </p>
+Note :- Your users will get an E-mail from Amazon stating their Workspace is launched with Registration code and a link to set password  ,you can also get Registration code in AWS workspace section.
+<br>
+Now to login to AWS Workspace ,install client as per your platform ,move to the link bellow to review it :- 
+https://clients.amazonworkspaces.com/
 
+### Workspace log-in using Windows :- 
+ <img src="https://gitresource.s3.us-east-2.amazonaws.com/aws_workspace/workspace_login.png">
+ <br>
+ Input the username and password ,(for first time it will ask for Registration Code )
+ <br>
+ <img src="https://gitresource.s3.us-east-2.amazonaws.com/aws_workspace/workspace_login.png">
+ <br>
+ After successful login it will display the Workspace Desktop .
+ <img src="https://gitresource.s3.us-east-2.amazonaws.com/aws_workspace/workspace_on_windows.png">
+ 
+ 
+### workspace login-using windows :-
+Install the AWS workspace application ,and connect using the Registration code ,User-name ,password.
+<img src="https://gitresource.s3.us-east-2.amazonaws.com/aws_workspace/workspace_on_mobile_1.jpeg">
+<img src="https://gitresource.s3.us-east-2.amazonaws.com/aws_workspace/workspace_on_mobile_2.jpeg">
+<img src="https://gitresource.s3.us-east-2.amazonaws.com/aws_workspace/workspace_on_mbile_3.jpeg">
 
+<hr>
+
+### Workspace login-using Web-Browser :- 
+Move to the link below :- <br>
+https://clients.amazonworkspaces.com/webclient#/registration
+<br>
+Enter Your registration code and provide username and password for log-in to workspace.
+<img src="https://gitresource.s3.us-east-2.amazonaws.com/aws_workspace/Screenshot+from+2019-09-09+20-41-51.png">
+<img src="https://gitresource.s3.us-east-2.amazonaws.com/aws_workspace/Screenshot+from+2019-09-09+20-42-00.png">
