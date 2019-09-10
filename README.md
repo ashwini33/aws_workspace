@@ -1,5 +1,15 @@
 # aws_workspace
 Descriptive use and administration of AWS workspace
+
+## content 
+<ol> 
+  <li> Quick Installation Guide 
+  <li> Descriptive Installlation 
+  <li> General Troubleshooting
+  </ol>
+
+
+
 <p> Amazon WorkSpaces offers an easy way to provide a cloud-based desktop experience to your end users. Users can connect from a PC, Mac desktop computer, iPad, Kindle, or Android tablet. Amazon WorkSpaces eliminates the need to procure and deploy hardware or install complex software.</p>
 <img src="https://gitresource.s3.us-east-2.amazonaws.com/aws_workspace/Screenshot+from+2019-09-09+20-42-00.png">
 <h3>Features</h3>
@@ -35,8 +45,25 @@ Descriptive use and administration of AWS workspace
 
    <li> Amazon WorkSpaces is not available in every Region. Verify the supported Regions and select a Region for your WorkSpaces. For more information about the supported Regions, see Amazon WorkSpaces Pricing by AWS Region.
 </ul>
+  
+###  Quick Installation Guide 
+Using Quick Setup, you can launch your first WorkSpace in minutes.
 
-<h2> Creating Amazon Workspace </h2>
+To launch a WorkSpace
+
+  1.Open the Amazon WorkSpaces console at https://console.aws.amazon.com/workspaces/.
+
+  2.Choose Get Started Now. If you don't see this button, either you have already launched a WorkSpace in this Region, or you aren't using one of the Regions that support Quick Setup.
+
+  3.On the Get Started with Amazon WorkSpaces page, next to Quick Setup, choose Launch.
+  
+  4.For Bundles, select a bundle for the user.
+  
+  5.For Enter User Details, complete Username, First Name, Last Name, and Email.
+  
+  6.Choose Launch WorkSpaces.
+
+<h2> Creating Amazon Workspace (Descritptive Installation) </h2>
 <p> Under AWS console move to Workspace service, click the "Get Started Now" button to start with Workspace,first create a Active Directory Service. <p>
 <img src="https://gitresource.s3.us-east-2.amazonaws.com/aws_workspace/Screenshot+from+2019-09-09+19-10-03.png">
 <h2> Creating Simple Active Directory   </h2>
